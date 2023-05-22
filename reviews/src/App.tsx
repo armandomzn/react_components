@@ -4,7 +4,7 @@ import { FaQuoteRight, FaAngleLeft, FaAngleRight } from "react-icons/fa";
 
 function App() {
   const [index, setIndex] = useState(0);
-  const { id, image, name, job, text } = reviews[index];
+  const { image, name, job, text } = reviews[index];
   const nextReview = () => {
     setIndex((prev) => {
       return (prev + 1) % reviews.length;
