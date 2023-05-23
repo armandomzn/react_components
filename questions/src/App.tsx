@@ -4,12 +4,8 @@ import { data } from "./data";
 function App() {
   const [questions, _] = useState(data);
   const [activeId, setActiveId] = useState<number | null>(null);
-  const toggleQuestion = (id: number) => {
-    console.log(id);
-    
+  const toggleQuestion = (id: number) => {    
     setActiveId((prev) => {
-      console.log(prev);
-
       return prev === id ? null : id;
     });
   };
