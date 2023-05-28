@@ -14,3 +14,6 @@
 ![](./screenshots/menu.jpeg)
 ## Live Example
 * [Menu with useState hook and filtering the categories of a dataset](https://magnificent-sundae-57951c.netlify.app/)
+## Tabs
+![](./screenshots/tabs.jpeg)
+* [Tabs updating indexes with useState hook](https://stellular-cobbler-1e47a7.netlify.app/)
