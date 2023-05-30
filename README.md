@@ -17,3 +17,7 @@
 ## Tabs
 ![](./screenshots/tabs.jpeg)
 * [Tabs updating indexes with useState hook](https://stellular-cobbler-1e47a7.netlify.app/)
+## Slider
+![](./screenshots/slider.jpeg)
+## Live Example
+* [Slider with useState and useEffect hooks](https://glowing-bubblegum-a992ff.netlify.app/)
