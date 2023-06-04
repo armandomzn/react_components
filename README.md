@@ -21,3 +21,7 @@
 ![](./screenshots/slider.jpeg)
 ## Live Example
 * [Slider with useState and useEffect hooks](https://glowing-bubblegum-a992ff.netlify.app/)
+## Lorem Ipsum
+![](./screenshots/lorem-ipsum.jpeg)
+## Live Example
+* [Lorem ipsum generator with input states using useState](https://lustrous-gingersnap-a23de8.netlify.app/)
