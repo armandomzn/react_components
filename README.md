@@ -59,3 +59,7 @@
 ## Live Example
 
 - [Color generator with input states using useState and useEffect hooks](https://golden-pasca-f1b1a8.netlify.app/)
+## Task Manager
+![](./screenshots/task-manager.jpeg)
+## Live Example
+- [Task manager using useState hook and localstorage](https://strong-druid-eb378d.netlify.app/)
