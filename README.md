@@ -63,3 +63,7 @@
 ![](./screenshots/task-manager.jpeg)
 ## Live Example
 - [Task manager using useState hook and localstorage](https://strong-druid-eb378d.netlify.app/)
+## Navbar
+![](./screenshots/navbar.jpeg)
+## Live Example
+- [Responsive Navbar using useState, useEffect and useRef hooks](https://comforting-faloodeh-6bd6c6.netlify.app/)

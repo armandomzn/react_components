@@ -265,6 +265,11 @@ Custom Styles
     padding: 0;
   }
 
+  .page-links a:hover {
+    padding: 0;
+    background: var(--white);
+  }
+
   .social-links {
     display: flex;
     justify-content: space-between;
