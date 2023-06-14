@@ -285,7 +285,7 @@ Custom Styles
   }
 
   .social-links a:hover {
-    background: var(--primary-800);
+    color: var(--primary-800);
     transform: scale(0.8);
   }
 

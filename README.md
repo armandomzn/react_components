@@ -67,3 +67,8 @@
 ![](./screenshots/navbar.jpeg)
 ## Live Example
 - [Responsive Navbar using useState, useEffect and useRef hooks](https://comforting-faloodeh-6bd6c6.netlify.app/)
+## Sidebar-Modal
+![](./screenshots/sidebar-modal-1.jpeg)
+![](./screenshots/sidebar-modal-2.jpeg)
+# Live Example
+- [Sidebar and Modal components using Context Api](https://graceful-pothos-48b1d5.netlify.app/)
