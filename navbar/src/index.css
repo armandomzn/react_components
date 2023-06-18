@@ -284,7 +284,7 @@ Custom Styles
     transition: var(--transition);
   }
 
-  .social-links a:hover {
+  .social-links a:hover svg {
     color: var(--primary-800);
     transform: scale(0.8);
   }
