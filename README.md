@@ -95,3 +95,7 @@
 ## Live Example
 
 - [Strapi type menu using Context Api, useState and useRef hooks](https://ornate-dragon-6c5bb2.netlify.app/)
+## Cart Reducer
+![](./screenshots/cart.jpeg)
+## Live Example
+- [Cart example using Context Api and Reducer to manage state](https://sunny-queijadas-9e66a2.netlify.app/)
