@@ -111,3 +111,11 @@
 ## Live Example
 
 - [Gallery consuming pexels api using react query](https://sprightly-taffy-402a24.netlify.app/)
+
+## Cocktails Api with React Router Dom and React Query
+
+![](./screenshots/cocktail-api.jpeg)
+
+## Live Example
+
+- [Application using react router dom and react query](https://incredible-cuchufli-f6e6bd.netlify.app/)
