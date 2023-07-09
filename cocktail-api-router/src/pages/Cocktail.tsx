@@ -16,9 +16,9 @@ const getQueryCocktail = (id: string | null | undefined) => {
     queryKey: ["cocktail", id],
     queryFn: async () => {
       const { data } = await axios.get(`${cocktailUrl}${id}`);
-      if (!data.drinks) {
-        return null;
-      }
+      // if (!data.drinks) {
+      //   return null;
+      // }
       const drink: DrinkProps[] = data.drinks.map((drink: DrinkApiProps) => {
         const ingredients: string[] = Object.keys(drink)
           .filter((element: string) => {
@@ -71,7 +71,7 @@ const Cocktail = () => {
     <Wrapper>
       <div className="cocktail-header">
         <h3>{name}</h3>
-        <Link to="/" className="btn">
+        <Link to={-1 as any} className="btn">
           back to home
         </Link>
       </div>
@@ -114,7 +114,7 @@ const Cocktail = () => {
           </p>
         </div>
       </div>
-      <Link to="/" className="btn">
+      <Link to={-1 as any} className="btn">
         back to home
       </Link>
     </Wrapper>

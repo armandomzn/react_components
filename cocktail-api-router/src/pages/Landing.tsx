@@ -10,7 +10,7 @@ const cocktailUrl = "https://www.thecocktaildb.com/api/json/v1/1/search.php?s=";
 
 const getQueryCocktailList = (searchTerm: string) => {
   return {
-    queryKey: ["search", searchTerm || "tequila"],
+    queryKey: ["search", searchTerm || "all"],
     queryFn: async () => {
       const { data } = await axios.get(`${cocktailUrl}${searchTerm}`);
       if (!data.drinks) {
