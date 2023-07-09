@@ -35,26 +35,8 @@ export const loader =
   (queryClient: QueryClient) =>
   async ({ request }: { request: Request }) => {
     const newUrl = new URL(request.url);
-    const searchTerm = newUrl.searchParams.get("search") || "";
-    // const { data } = await axios.get(`${cocktailUrl}${searchTerm}`);
-
-    // if (!data.drinks) {
-    //   return "";
-    // }
-
-    // const drinks: DrinkProps[] = data.drinks.map((drink: DrinkApiProps) => {
-    //   return {
-    //     id: drink.idDrink,
-    //     name: drink.strDrink,
-    //     category: drink.strCategory,
-    //     info: drink.strAlcoholic,
-    //     image: drink.strDrinkThumb,
-    //     glass: drink.strGlass,
-    //   };
-    // });
-    // console.log(drinks);
+    const searchTerm = newUrl.searchParams.get("search") || "tequila";
     await queryClient.ensureQueryData(getQueryCocktailList(searchTerm));
-    // return { drinks, searchTerm };
     return { searchTerm };
   };
 const Landing = () => {

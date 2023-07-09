@@ -12,15 +12,10 @@ import { QueryClient, useQuery } from "@tanstack/react-query";
 const cocktailUrl = "https://www.thecocktaildb.com/api/json/v1/1/lookup.php?i=";
 
 const getQueryCocktail = (id: string | null | undefined) => {
-  // if (!id) {
-  //   return null;
-  // }
   return {
     queryKey: ["cocktail", id],
     queryFn: async () => {
       const { data } = await axios.get(`${cocktailUrl}${id}`);
-      console.log(data);
-
       if (!data.drinks) {
         return null;
       }
@@ -55,29 +50,6 @@ export const loader =
   (queryClient: QueryClient) =>
   async ({ params }: LoaderFunctionArgs) => {
     const { id } = params;
-    // const { data } = await axios.get(`${cocktailUrl}${id}`);
-    // const drink: DrinkProps = data.drinks.map((drink: DrinkApiProps) => {
-    //   const ingredients: string[] = Object.keys(drink)
-    //     .filter((element: string) => {
-    //       return (
-    //         element.startsWith("strIngredient") &&
-    //         drink[element as keyof DrinkApiProps]
-    //       );
-    //     })
-    //     .map((key) => {
-    //       return drink[key as keyof DrinkApiProps];
-    //     });
-    //   return {
-    //     id: drink.idDrink,
-    //     name: drink.strDrink,
-    //     category: drink.strCategory,
-    //     info: drink.strAlcoholic,
-    //     image: drink.strDrinkThumb,
-    //     glass: drink.strGlass,
-    //     ingredients,
-    //     instructions: drink.strInstructions,
-    //   };
-    // });
     await queryClient.ensureQueryData(getQueryCocktail(id));
     return { id };
   };
@@ -87,7 +59,6 @@ const Cocktail = () => {
   };
 
   const { data } = useQuery(getQueryCocktail(id));
-  console.log(data);
 
   if (!data?.drink) {
     return <Navigate to="/" />;
@@ -130,7 +101,7 @@ const Cocktail = () => {
             <span className="drink-info">Ingredients: </span>
             {ingredients?.map((ingredient, index) => {
               return (
-                <span key={ingredient}>
+                <span key={`${ingredient}${index}`}>
                   {ingredient}
                   {index < ingredients.length - 1 ? ", " : ""}
                 </span>
