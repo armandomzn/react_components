@@ -35,7 +35,7 @@ export const loader =
   (queryClient: QueryClient) =>
   async ({ request }: { request: Request }) => {
     const newUrl = new URL(request.url);
-    const searchTerm = newUrl.searchParams.get("search") || "tequila";
+    const searchTerm = newUrl.searchParams.get("search") || "";
     await queryClient.ensureQueryData(getQueryCocktailList(searchTerm));
     return { searchTerm };
   };
