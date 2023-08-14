@@ -362,10 +362,6 @@ Sidebar
   transition: var(--transition);
 }
 
-.page-links svg:hover {
-  background: red;
-}
-
 .social-links {
   display: flex;
   align-items: center;
