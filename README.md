@@ -119,3 +119,11 @@
 ## Live Example
 
 - [Application using react router dom and react query](https://incredible-cuchufli-f6e6bd.netlify.app/)
+
+## Tailwind Portfolio with React
+
+![](./screenshots/tailwind-portfolio.jpeg)
+
+## Live Example
+
+- [Tailwind portfolio project using React](https://sprightly-hummingbird-355115.netlify.app/)
