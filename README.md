@@ -127,3 +127,12 @@
 ## Live Example
 
 - [Tailwind portfolio project using React](https://sprightly-hummingbird-355115.netlify.app/)
+
+## Redux Toolkit Cart
+
+![](./screenshots/cart_redux_toolkit_1.jpeg)
+![](./screenshots/cart_redux_toolkit_2.jpeg)
+
+## Live Example
+
+- [Cart Example using Redux Toolkit to manage state](https://statuesque-blini-1d1140.netlify.app/)
