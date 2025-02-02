@@ -46,3 +46,6 @@ useState & useEffect
         Responsible for loading the initial card data when the component mounts. It runs once and triggers fetchData to fetch the card data.
         
 ## Live demo
+  ![cards](https://github.com/user-attachments/assets/8f68cfc2-a55f-4ca3-9cf6-3ec7d13e4bef)
+- [Cards with useEffect and useState hooks](https://beautiful-tiramisu-b20117.netlify.app/)
+
