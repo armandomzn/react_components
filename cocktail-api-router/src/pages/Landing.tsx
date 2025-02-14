@@ -12,8 +12,8 @@ const getQueryCocktailList = (searchTerm: string) => {
   return {
     queryKey: ["search", searchTerm || "all"],
     queryFn: async () => {
-      const { data } = await axios.get(`${cocktailUrl}${searchTerm}`);
-      if (!data.drinks) {
+      let { data } = await axios.get(`${cocktailUrl}${searchTerm || "all"}`);
+      if (!Array.isArray(data.drinks)) {
         return null;
       }
       const drinks: DrinkProps[] = data.drinks.map((drink: DrinkApiProps) => {
