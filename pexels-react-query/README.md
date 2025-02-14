@@ -7,6 +7,7 @@ This is a **React** project using **TypeScript**, **React Query**, and **Vite** 
 - Persist search term and page number using **localStorage**.
 - Display image details including photographer name and a link to the full-size image.
 - Styled with CSS for a clean, user-friendly interface.
+- User must provide their **Pexels API key**.
 
 ---
 
@@ -26,8 +27,14 @@ In the root of the project folder, open a terminal and install the required depe
 ```sh
 npm install
 ```
-
-### 2. Run the Project in Development Mode
+### 2. Set Up Your Pexels API Key
+Before running the project, you need to provide your **Pexels API key**. To do this:
+ 1. Sign up for an account at Pexels.
+ 2. Once you have an API key, create a .env file in the root of your project and add the following line:
+```sh
+VITE_API_KEY=your-pexels-api-key
+```
+### 3. Run the Project in Development Mode
 To start the development server, run the following command:
 
 ```sh
