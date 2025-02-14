@@ -253,6 +253,8 @@ Sidebar
 .sidebar-container {
   padding: 4rem 2rem;
   position: relative;
+  overflow-y: auto;
+  height: 100%;
 }
 
 .close-btn {
