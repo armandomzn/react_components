@@ -12,13 +12,13 @@ export const navLinks: NavLink[] = [
   },
   {
     id: nanoid(),
-    href: "#about",
-    text: "about",
+    href: "#skills",
+    text: "skills",
   },
   {
     id: nanoid(),
-    href: "#skills",
-    text: "skills",
+    href: "#about",
+    text: "about",
   },
   {
     id: nanoid(),
