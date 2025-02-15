@@ -46,4 +46,4 @@ This will start the Vite development server and open the app in your default bro
 
 ## Live demo
 ![tabs](https://github.com/user-attachments/assets/9998d028-d17a-4cfa-a69d-eba38ea61f2b)
-- [Tabs updating indexes with useState hook](https://stellular-cobbler-1e47a7.netlify.app/)
+- [Tabbed Interface with useState Hook.](https://stellular-cobbler-1e47a7.netlify.app/)

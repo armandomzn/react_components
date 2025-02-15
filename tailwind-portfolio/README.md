@@ -53,4 +53,4 @@ This will start the Vite development server and open the app in your default bro
 
 ## Live demo
 ![tailwind-portfolio](https://github.com/user-attachments/assets/9772231e-6711-45e3-8ee7-e909db78cf4f)
-- [Tailwind portfolio project using React](https://sprightly-hummingbird-355115.netlify.app/)
+- [Modern Portfolio using React & Tailwind CSS.](https://sprightly-hummingbird-355115.netlify.app/)

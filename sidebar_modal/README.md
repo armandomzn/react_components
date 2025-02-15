@@ -53,5 +53,5 @@ This will start the Vite development server and open the app in your default bro
 ## Live demo
 ![sidebar-modal-1](https://github.com/user-attachments/assets/ff3baf07-5021-4874-a523-dc3f92e61e9a)
 ![sidebar-modal-2](https://github.com/user-attachments/assets/5a4b0dcd-c879-4731-9c36-4eb41b0ce312)
-- [Sidebar and Modal components using Context Api](https://graceful-pothos-48b1d5.netlify.app/)
+- [Sidebar & Modal with Context API.](https://graceful-pothos-48b1d5.netlify.app/)
 

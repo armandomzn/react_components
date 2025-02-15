@@ -61,4 +61,4 @@ This will start the Vite development server and open the app in your default bro
 
 ## Live demo
 ![pexels](https://github.com/user-attachments/assets/d14a53fc-4ac3-4f0c-adf7-81b8f63192e4)
-- [Gallery consuming pexels api using react query](https://sprightly-taffy-402a24.netlify.app/)
+- [Photo Gallery using Pexels API & React Query.](https://sprightly-taffy-402a24.netlify.app/)

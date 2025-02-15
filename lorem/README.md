@@ -50,4 +50,4 @@ This will start the Vite development server and open the app in your default bro
 
 ## Live demo
 ![lorem-ipsum](https://github.com/user-attachments/assets/ef0446a1-a61b-483e-bc5c-11a4980957b5)
-- [Lorem ipsum generator with input states using useState hook](https://lustrous-gingersnap-a23de8.netlify.app/)
+- [Lorem Ipsum Generator with useState.](https://lustrous-gingersnap-a23de8.netlify.app/)

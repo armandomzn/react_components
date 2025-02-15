@@ -5,7 +5,7 @@ Creation of reusable React components for the modularization of web pages using 
 
 ### 1. [Cards](https://beautiful-tiramisu-b20117.netlify.app/)
 ![cards](https://github.com/user-attachments/assets/148e0244-399b-4f7c-88f6-8cd60e00c8c5)
-A component to display cards with dynamic content, utilizing the `useEffect` and `useState` hooks.
+A project to display cards with dynamic content, utilizing the `useEffect` and `useState` hooks.
 
 ### 2. [Reviews](https://sage-crisp-b4c150.netlify.app/)
 ![reviews](https://github.com/user-attachments/assets/554d28c3-d365-4165-8cd3-015e8093124b)
@@ -21,23 +21,23 @@ An interactive sidebar with modal functionality for displaying additional conten
 
 ### 5. [Modal](https://boisterous-tapioca-5dc5a2.netlify.app/)
 ![modal](https://github.com/user-attachments/assets/900422a8-1839-4209-b360-0cd268edbe00)
-A simple modal component that opens and displays content dynamically, built using `useState` hook.
+A simple modal project that opens and displays content dynamically, built using `useState` hook.
 
 ### 6. [Accordion](https://unique-truffle-f87e44.netlify.app/)
 ![accordion](https://github.com/user-attachments/assets/aab28152-b4d1-4fef-97da-823e4bb3e79c)
-An accordion component that opens only one element at a time, demonstrating state management with React.
+An accordion project that opens only one element at a time, demonstrating state management with React.
 
 ### 7. [Menu](https://magnificent-sundae-57951c.netlify.app/)
 ![menu](https://github.com/user-attachments/assets/42ddc000-4083-45f2-9d29-9953c9309ba8)
-A menu component that filters and displays items from a dataset, utilizing the `useState` hook for state management.
+A menu project that filters and displays items from a dataset, utilizing the `useState` hook for state management.
 
 ### 8. [Tabs](https://stellular-cobbler-1e47a7.netlify.app/)
 ![tabs](https://github.com/user-attachments/assets/7b97c783-065d-454f-9eac-ad710242447f)
-A dynamic tab component that updates the displayed content based on the selected tab index, using `useState`.
+A dynamic tab project that updates the displayed content based on the selected tab index, using `useState`.
 
 ### 9. [Slider](https://glowing-bubblegum-a992ff.netlify.app/)
 ![slider](https://github.com/user-attachments/assets/ce4e05f1-02b6-4908-9f57-373f1e950234)
-A sliding component that dynamically updates the content, powered by `useState` and `useEffect` hooks.
+A sliding project that dynamically updates the content, powered by `useState` and `useEffect` hooks.
 
 ### 10. [Lorem Ipsum Generator](https://lustrous-gingersnap-a23de8.netlify.app/)
 ![lorem-ipsum](https://github.com/user-attachments/assets/ea64480b-8f8b-4164-b212-23a28ab5d204)
@@ -57,7 +57,7 @@ A cart example using `Context API` and a reducer to manage state for adding and 
 
 ### 14. [Pexels API with React-Query](https://sprightly-taffy-402a24.netlify.app/)
 ![pexels](https://github.com/user-attachments/assets/6ac76b76-d152-4bb0-96f7-aa5c2be218f8)
-A gallery component fetching images from the Pexels API, utilizing React Query for data fetching and caching.
+A gallery project fetching images from the Pexels API, utilizing React Query for data fetching and caching.
 
 ### 15. [Cocktails API with React Router Dom and React Query](https://incredible-cuchufli-f6e6bd.netlify.app/)
 ![cocktail-api](https://github.com/user-attachments/assets/d4582a21-17a1-48a4-baa4-dc6731d51cb2)

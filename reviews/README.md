@@ -45,4 +45,4 @@ useState
         
 ## Live demo
   ![reviews](https://github.com/user-attachments/assets/73565905-fd56-4626-8d4d-b714bba5910d)
-- [Reviews with useState hook and index handling](https://sage-crisp-b4c150.netlify.app/)
+- [Review Carousel with useState & Index Handling.](https://sage-crisp-b4c150.netlify.app/)

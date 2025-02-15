@@ -53,4 +53,4 @@ This will start the Vite development server and open the app in your default bro
 
 ## Live demo
 ![color-generator](https://github.com/user-attachments/assets/0e455fcf-fa8b-437d-8ba3-b4ca099c6841)
-- [Color generator with input states using useState and useEffect hooks](https://golden-pasca-f1b1a8.netlify.app/)
+- [Color Generator with useState & useEffect.](https://golden-pasca-f1b1a8.netlify.app/)

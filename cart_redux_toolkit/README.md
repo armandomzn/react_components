@@ -59,4 +59,4 @@ This will launch the Vite development server and open the app in your default br
 ## Live Demo
 ![cart_redux_toolkit_1](https://github.com/user-attachments/assets/5ad6d45e-c482-4f05-b5d1-8860f931f767)
 ![cart_redux_toolkit_2](https://github.com/user-attachments/assets/d8076968-30c2-48cc-8991-4cd67ee5b575)
-- [Cart Example using Redux Toolkit to manage state](https://statuesque-blini-1d1140.netlify.app/)
+- [Global State Cart with Redux Toolkit.](https://statuesque-blini-1d1140.netlify.app/)

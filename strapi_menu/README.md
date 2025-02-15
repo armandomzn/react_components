@@ -56,4 +56,4 @@ This will start the Vite development server and open the app in your default bro
 ![strapi_menu-1](https://github.com/user-attachments/assets/d1c78f34-66bb-487a-91ff-ac067d78d67e)
 ![strapi_menu-2](https://github.com/user-attachments/assets/7acc73c3-aa63-4a61-8db7-e7fe191510be)
 ![strapi_menu-3](https://github.com/user-attachments/assets/0ca7f89f-87c7-4126-aa4d-1b3d1d9ae5a6)
-- [Strapi type menu using Context Api, useState and useRef hooks](https://ornate-dragon-6c5bb2.netlify.app/)
+- [Dynamic Menu using Context API, useState & useRef.](https://ornate-dragon-6c5bb2.netlify.app/)

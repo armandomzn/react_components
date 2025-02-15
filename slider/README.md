@@ -51,4 +51,4 @@ This will start the Vite development server and open the app in your default bro
 
 ## Live demo
 ![slider](https://github.com/user-attachments/assets/c00f0b3a-9db8-4b4a-b4ca-9d05760cde58)
-- [Slider with useState and useEffect hooks](https://glowing-bubblegum-a992ff.netlify.app/)
+- [Image Slider with useState & useEffect.](https://glowing-bubblegum-a992ff.netlify.app/)

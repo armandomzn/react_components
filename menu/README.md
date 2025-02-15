@@ -46,4 +46,4 @@ This will start the Vite development server and open the app in your default bro
 
 ## Live demo
 ![menu](https://github.com/user-attachments/assets/81a2b24a-c0a7-447d-868e-7c8c45381b2c)
-- [Menu with useState hook and filtering the categories of a dataset](https://magnificent-sundae-57951c.netlify.app/)
+- [Dynamic Menu with Filtering (useState).](https://magnificent-sundae-57951c.netlify.app/)

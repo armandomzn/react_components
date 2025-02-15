@@ -47,4 +47,4 @@ This will start the Vite development server and open the app in your default bro
 
 ## Live demo
 ![questions](https://github.com/user-attachments/assets/8cf8d141-a0de-42a2-96ca-97c51f70b442)
-- [Questions with useState hook](https://calm-sunflower-94db63.netlify.app/)
+- [FAQ Accordion with useState Hook.](https://calm-sunflower-94db63.netlify.app/)

@@ -54,4 +54,4 @@ This will start the Vite development server and open the app in your default bro
 
 ## Live demo
 ![cocktail-api](https://github.com/user-attachments/assets/3e7628ea-0e36-485f-8ad6-4926c5be4c65)
-- [Application using react router dom and react query](https://incredible-cuchufli-f6e6bd.netlify.app/)
+- [Cocktail API with React Router & React Query.](https://incredible-cuchufli-f6e6bd.netlify.app/)

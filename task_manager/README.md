@@ -53,5 +53,5 @@ This will start the Vite development server and open the app in your default bro
 
 ## Live demo
 ![task-manager](https://github.com/user-attachments/assets/22eca906-1a1d-405d-a6e3-e6878f3d5666)
-- [Task manager using useState hook and localstorage](https://strong-druid-eb378d.netlify.app/)
+- [Task Manager with useState & LocalStorage.](https://strong-druid-eb378d.netlify.app/)
 

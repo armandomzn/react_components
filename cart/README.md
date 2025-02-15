@@ -52,4 +52,4 @@ This will start the Vite development server and open the app in your default bro
 
 ## Live demo
 ![cart](https://github.com/user-attachments/assets/e1cd87cf-aecc-478b-96ba-2458fde1005e)
-- [Cart example using Context Api and Reducer to manage state](https://sunny-queijadas-9e66a2.netlify.app/)
+- [Cart Management using Context API & Reducer.](https://sunny-queijadas-9e66a2.netlify.app/)

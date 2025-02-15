@@ -52,4 +52,4 @@ This will start the Vite development server and open the app in your default bro
 ## Live demo
 ![navbar](https://github.com/user-attachments/assets/e423cebc-e3bf-4fe2-97aa-19702bd7ac65)
 ![navbar-1](https://github.com/user-attachments/assets/0600c927-87a0-493d-87c3-17a71b5fb410)
-- [Responsive Navbar using useState, useEffect and useRef hooks](https://comforting-faloodeh-6bd6c6.netlify.app/)
+- [Responsive Navbar with useState, useEffect & useRef.](https://comforting-faloodeh-6bd6c6.netlify.app/)
