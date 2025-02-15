@@ -3,7 +3,7 @@ import heroImg from "../assets/hero.svg";
 import { FaGithubSquare, FaLinkedin } from "react-icons/fa";
 const Hero = () => {
   return (
-    <div className="h-[calc(100vh-6rem)] bg-sky-200 py-4 flex md:items-center justify-start">
+    <div className="h-[calc(100vh-6rem)] bg-sky-200 py-4 flex md:items-center justify-start" id="home">
       <div className="grid md:grid-cols-2 gap-8 max-w-6xl mx-auto w-11/12 items-center">
         <article className="grid gap-y-4">
           <h1 className="capitalize tracking-wider font-bold sm:text-6xl text-4xl">
