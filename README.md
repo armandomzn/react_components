@@ -71,7 +71,7 @@ A portfolio project showcasing Tailwind CSS and React for styling and layout.
 ![strapi_menu-1](https://github.com/user-attachments/assets/7530f046-78cf-46c5-b0db-388ad6032968)
 A dynamic menu fetching data from Strapi, using `useState`, `useRef`, and `Context API` for state management.
 
-### 18. [Redux Toolkit Cart](https://redux-toolkit-cart.netlify.app/)
+### 18. [Redux Toolkit Cart](https://statuesque-blini-1d1140.netlify.app/)
 ![cart_redux_toolkit_1](https://github.com/user-attachments/assets/ed91c334-d498-4dc0-9730-8efbe087312d)
 ![cart_redux_toolkit_2](https://github.com/user-attachments/assets/d4a78a23-9ea0-4636-882f-93a68bff4365)
 A cart management system using **Redux Toolkit**, allowing users to add, remove, and update cart items with a global state.
